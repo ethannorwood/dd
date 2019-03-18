@@ -736,7 +736,6 @@ h1 small, h2 small, h3 small, h1 .small, h2 .small, h3 .small {
     z-index: 3;
 }
 .main .logo.cursive{
-    font-family: 'Grand Hotel';
     font-size: 100px;
     text-shadow: 0px 3px 7px rgba(0, 0, 0, 0.35);
 }
